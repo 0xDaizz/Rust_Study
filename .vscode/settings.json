@@ -4,5 +4,6 @@
     "./n02_upgrade/Cargo.toml",
     "./n03/Cargo.toml",
     "./n05/Cargo.toml",
+    "./_examples/Cargo.toml",
 ]
 }
