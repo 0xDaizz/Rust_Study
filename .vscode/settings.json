@@ -5,5 +5,8 @@
     "./n03/Cargo.toml",
     "./n05/Cargo.toml",
     "./_examples/Cargo.toml",
-]
+],
+"rust-analyzer.enable": true,
+"rust-analyzer.diagnostics.enable": true,
+"rust-analyzer.procMacro.enable": true
 }
