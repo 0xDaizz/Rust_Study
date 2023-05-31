@@ -29,7 +29,7 @@ fn main() {
         let mut guess: String = String::new();
         io::stdin().read_line(&mut guess).expect("Failed to read line.");
 
-        match guess.trim().parse() {
+        match guess.trim().parse::<u32>() {
             Ok(num) if num >= 1 && num <= 100 => {
                 println!("You guessed: {}", num);
                 remaining_guesses -= 1;
