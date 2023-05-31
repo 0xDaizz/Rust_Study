@@ -1,8 +1,11 @@
+// cargo-deps: rand = "0.8.5"
+
 // 열심히 했다가 날아가서 살짝 빡침.
 // 기본 추리 게임 완성 코드
 
 // extern crate rand;  // = use rand 임. 이거 사실 왜 있는지 모르겠음.. 없어도 될것같은데. 
 // 확인 결과, Rust 2018 이후에서는 필요 없는 것임이 확인됨.
+
 
 use std::io;
 use std::cmp::Ordering;
