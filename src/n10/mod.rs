@@ -1,2 +1,2 @@
-mod trait_study;
-mod lifetime;
+pub mod trait_study;
+pub mod lifetime;

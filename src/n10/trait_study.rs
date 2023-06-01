@@ -84,7 +84,7 @@ fn largest<T: PartialOrd + Copy>(arr: &[T]) -> T {
 // list[0]을 largest로 옮기는 동작이 아닌, 참조를 하는 방식으로 한다면 
 // Copy trait를 구현할 필요도 없어짐!
 
-fn modified_largest<T: PartialOrd>(arr: &[T]) -> &T {
+pub fn modified_largest<T: PartialOrd>(arr: &[T]) -> &T {
     let mut largest = &arr[0];  
     // return Type을 &T로 참조로 수정하고, 
     // return할 값인 largest를 정의할 때 arr[0]의 참조를 가져옴!

@@ -1,11 +1,12 @@
 // mod _examples;
-mod n02;
-mod n02_upgrade;
-mod n03;
-mod n05;
-mod n08;
-mod n09;
-mod n10;
+pub mod n02;
+pub mod n02_upgrade;
+pub mod n03;
+pub mod n05;
+pub mod n08;
+pub mod n09;
+pub mod n10;
+pub mod n11;
 
 
 // 이런 식으로 모듈화가 가능.
