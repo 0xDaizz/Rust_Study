@@ -1,6 +1,13 @@
 # Rust study
 Just for my study.
 
+## Tip
+You can turn off the type hint of rust-analyzer 
+by adding this code into .vscode/settings.json.
+
+```"rust-analyzer.inlayHints.typeHints.enable": false,```
+
+
 ## explanation
 - n02 : Guess game example 
 - n02_upgrade : more detailed logic added. also ChatGPT version added.

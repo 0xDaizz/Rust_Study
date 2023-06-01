@@ -1,6 +1,9 @@
 {
     "rust-analyzer.linkedProjects": [
         "./Cargo.toml",
+        "./n12_ex/Cargo.toml",
     ],
-    "rust-analyzer.showUnlinkedFileNotification": false
+    "rust-analyzer.showUnlinkedFileNotification": false,
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+
 }
