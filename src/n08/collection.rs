@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 // 1. 첫 번째 컬렉션 : Vector
 
 fn main() {

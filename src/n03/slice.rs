@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 fn main() {
 
     let s = String::from("Hello World");

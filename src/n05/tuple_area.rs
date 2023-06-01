@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 // main.rs의 사각형 넓이 구하는 함수를, 튜플로 리팩터링할 것임.
 
 fn main() {

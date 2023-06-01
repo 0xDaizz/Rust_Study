@@ -1,4 +1,6 @@
 // While 사용 예시
+#![allow(dead_code)]
+
 
 fn main() {
     let mut count = 3;

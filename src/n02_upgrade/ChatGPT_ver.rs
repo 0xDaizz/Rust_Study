@@ -1,4 +1,5 @@
 // cargo-deps: rand = "0.8.5"
+#![allow(dead_code)]
 /*
 
 1. chance 변수의 이름을 remaining_guesses로 변경하였습니다. 이를 통해 이 변수가 얼마나 많은 추측 기회가 남았는지 더 명확하게 나타낼 수 있습니다.

@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 fn main() {
     let length1 = 75;
     let length2 = 45;

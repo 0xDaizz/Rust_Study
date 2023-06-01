@@ -1,4 +1,5 @@
 // cargo-deps: rand = "0.8.5"
+#![allow(dead_code)]
 
 // 기본 추리 게임을 업그레이드 한 버전.
 
