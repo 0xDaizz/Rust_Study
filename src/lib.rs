@@ -5,6 +5,7 @@ mod n03;
 mod n05;
 mod n08;
 mod n09;
+mod n10;
 
 
 // 이런 식으로 모듈화가 가능.
