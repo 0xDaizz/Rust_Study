@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "greprs"
+name = "gpt_example"
 version = "0.1.0"

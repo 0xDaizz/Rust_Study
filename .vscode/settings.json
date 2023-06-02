@@ -1,7 +1,7 @@
 {
     "rust-analyzer.linkedProjects": [
         "./Cargo.toml",
-        "./n12_ex/Cargo.toml",
+        "./gpt_example/Cargo.toml",
     ],
     "rust-analyzer.showUnlinkedFileNotification": false,
     "rust-analyzer.inlayHints.typeHints.enable": false,
